@@ -1,0 +1,31 @@
+.card {
+    border: 1px solid #d3d3d3;
+    width: 300px;
+    padding: 0 10px 10px 10px;
+    box-shadow: 10px 10px 5px 0px rgba(230,230,230,1);
+}
+
+.description {
+    border: 1px solid #d3d3d3;
+    width: 280px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.photo {
+    border: 1px solid #d3d3d3;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul span {
+    font-weight: bold;
+}
